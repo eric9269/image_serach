@@ -1,0 +1,4 @@
+.env
+last_search_result.json
+__pycache__/
+.vscode/
